@@ -2,7 +2,7 @@ body{
 	background-color: #f3f3f3;
 	padding:0;
 	margin:0;
-	width: 60;
+
 }
 
 .page {
@@ -11,6 +11,7 @@ body{
 	border-radius: 15px;
 	background-color: white;
 	overflow: hidden;
+	width: 75em;
 }
 
 .main-nav{
